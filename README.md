@@ -1,4 +1,7 @@
-# test coverage for  [github-url-to-object (v3.1.0)](https://github.com/zeke/github-url-to-object#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-github-url-to-object.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-github-url-to-object) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-github-url-to-object.svg)](https://travis-ci.org/npmtest/node-npmtest-github-url-to-object)
+# npmtest-github-url-to-object
+
+#### basic test coverage for  [github-url-to-object (v3.1.0)](https://github.com/zeke/github-url-to-object#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-github-url-to-object.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-github-url-to-object) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-github-url-to-object.svg)](https://travis-ci.org/npmtest/node-npmtest-github-url-to-object)
+
 #### Extract user, repo, and other interesting properties from GitHub URLs
 
 [![NPM](https://nodei.co/npm/github-url-to-object.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/github-url-to-object)
@@ -7,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-github-url-to-object/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-github-url-to-object/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-github-url-to-object/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-github-url-to-object/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-github-url-to-object/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-github-url-to-object/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-github-url-to-object/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-github-url-to-object/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-github-url-to-object/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-github-url-to-object/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-github-url-to-object/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-github-url-to-object/build/coverage.html/index.html)
 
@@ -88,7 +91,8 @@
         ]
     },
     "version": "3.1.0",
-    "website": "https://zeke.github.io/github-url-to-object"
+    "website": "https://zeke.github.io/github-url-to-object",
+    "bin": {}
 }
 ```
 
